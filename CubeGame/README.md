@@ -1,6 +1,6 @@
 Directions to play.
 Cloan repo - Command line instructions
-1. navigate to the location where you want the reposiroty located.
+1. navigate to the local location where you want the repo located.
 2. git cloan https://github.com/rileybeckham/Projects/edit/master/CubeGame
 3. Open main.html in any browser.  
 Bugs to be aware of.  
